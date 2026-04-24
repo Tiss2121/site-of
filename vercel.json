@@ -3,12 +3,5 @@
   "outputDirectory": ".",
   "framework": null,
   "cleanUrls": true,
-  "trailingSlash": false,
-  "redirects": [
-    {
-      "source": "https://www.teachable-moments.com/:path*",
-      "destination": "https://teachable-moments.com/:path*",
-      "permanent": true
-    }
-  ]
+  "trailingSlash": false
 }
