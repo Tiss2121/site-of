@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://teachable-moments.com/sitemap.xml
