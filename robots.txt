@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://teachable-moments.com/sitemap.xml
+Sitemap: https://www.teachable-moments.com/sitemap.xml
